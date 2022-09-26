@@ -3,7 +3,6 @@ from django.shortcuts import render
 
 def home(request):
     packages = [
-	{'name':'chainer-cuda-deps', 'url': 'http://pypi.python.org/pypi/chainer-cuda-deps/1.1.0.1'},
 	{'name':'chainercmd', 'url': 'http://pypi.python.org/pypi/chainercmd/3.1.0a2'},
 	{'name':'chainerboard', 'url': 'http://pypi.python.org/pypi/chainerboard/0.1.5'},
 	{'name':'chainer_addons', 'url': 'http://pypi.python.org/pypi/chainer_addons/0.1.3'},
