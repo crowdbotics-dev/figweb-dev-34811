@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8ed609f5528209b349e4296204757bcbe29915546ad34676fee64193472d45e5"
+            "sha256": "157799becb121ec021b7e8c3c8316045bee351939e917e8b577575bb333c8c11"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -153,13 +153,6 @@
             ],
             "index": "pypi",
             "version": "==0.1.5"
-        },
-        "chainercmd": {
-            "hashes": [
-                "sha256:a6a5de5ce066c88463d3b3919e4724f6841ac409049dd2c1ecb7f762825a2f6b"
-            ],
-            "index": "pypi",
-            "version": "==3.1.0a2"
         },
         "charset-normalizer": {
             "hashes": [
